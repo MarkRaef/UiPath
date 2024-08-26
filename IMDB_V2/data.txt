@@ -1,6 +1,0 @@
-Name: Titanic
-Rate: 7.9
-Year: 1997
-Name: Green Book
-Rate: 8.2
-Year: 2018
