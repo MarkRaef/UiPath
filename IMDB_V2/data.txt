@@ -1,0 +1,9 @@
+Name: Titanic
+Rate: 7.9
+Year: 1997
+Name: Green Book
+Rate: 8.2
+Year: 2018
+Name: Manchester by the Sea
+Rate: 7.8
+Year: 2016
